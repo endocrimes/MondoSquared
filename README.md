@@ -1,4 +1,4 @@
-# MongoSquared
+# MondoSquared
 
 Automatically check in on Swarm when you spend money.
 
